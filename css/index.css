@@ -1,0 +1,22 @@
+
+        body {
+            background-color: #7eb5ec;
+        }
+        .navbar {
+            background-color: #007bff;
+        }
+        .navbar a {
+            color: rgb(0, 0, 0) !important;
+        }
+        h1 {
+            color: #007bff;
+            margin-top: 70px; /* Para evitar el solapamiento con la navbar */
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+      

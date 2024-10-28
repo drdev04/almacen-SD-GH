@@ -2,16 +2,6 @@
 
 Este proyecto es una aplicación web de gestión de acceso a un sistema de almacén de bebidas. Permite la autenticación de usuarios y ofrece funcionalidades específicas según el rol asignado: administrador o usuario. Los administradores tienen acceso a operaciones adicionales como la administración de usuarios, mientras que los usuarios tienen acceso limitado a ciertas funcionalidades de gestión de inventario.
 
-## Tabla de Contenidos
-- [Características](#características)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-
 ## Características
 
 - **Inicio de Sesión y Roles:** Permite el acceso a través de un sistema de login que valida el rol del usuario (administrador o usuario regular).

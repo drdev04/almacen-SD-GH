@@ -29,7 +29,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['usuario']) && isset($
         if ($row['rol'] === 'administrador') {
             header("Location: index.php");
         } else {
-            header("Location: usuario.php");
+            header("Location: index1.php"); //Originalmente => usuario.php
         }
         exit(); // Asegúrate de salir después de la redirección
     } else {
